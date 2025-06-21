@@ -1,0 +1,67 @@
+/* .head{
+    background-color: brown;
+    padding: 5px;
+    border: 2px solid burlywood;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+} */
+.head-container{
+    background-color: lightgrey;
+}
+.head-container-text{
+    color: black;
+    font-size: 13.5px;
+    font-weight: bold;
+}
+.btn-blue{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+}
+
+.btn-reset{
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+}
+.input{
+    background-color: white;
+    box-shadow: 3px 3px 2px darkgray;
+}
+.reg-title{
+    font-weight: 500;
+    color: rgb(7, 170, 219);
+}
+
+
+
+.head{
+    color: rgb(7, 170, 219);
+    font-weight: 800;
+}
+.head-title{
+    background-color: rgb(7, 170,219);
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+.bg{
+    background-color: rgb(75, 223, 75);
+    font-size: 18px;
+    color: white;
+}
+
+.btn1{
+    background-color: rgb(230, 44, 20);
+    color: white;
+    font-size: 15px;
+}
+
+.btn2{
+    background-color: rgb(102, 51, 196);
+    color: white;
+    font-size: 15px;
+}
+
+
