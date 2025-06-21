@@ -1,0 +1,28 @@
+.head{
+    color: rgb(7, 170, 219);
+    font-weight: 800;
+    padding-top: 30px;
+}
+.head-title{
+    background-color: rgb(7, 170,219);
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+.bg{
+    background-color: rgb(75, 223, 75);
+    font-size: 18px;
+    color: white;
+}
+
+.btn1{
+    background-color: rgb(230, 44, 20);
+    color: white;
+    font-size: 15px;
+}
+
+.btn2{
+    background-color: rgb(102, 51, 196);
+    color: white;
+    font-size: 15px;
+}
