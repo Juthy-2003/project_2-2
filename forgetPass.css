@@ -1,0 +1,23 @@
+.textColor{
+    color: rgb(7, 184, 243);
+    font-style: italic;
+}
+.backgr{
+    background-color: rgb(236, 243, 243);
+    color: black;
+    font-size: 18px;
+}
+.bg{
+    background-color: rgb(7, 184, 243);
+    font-size: 20px;
+}
+.signIn{
+    background-color: rgb(104, 212, 54);
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.forget{
+    color: rgb(197, 47, 36);
+    font-weight: 900;
+}
